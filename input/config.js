@@ -34,6 +34,18 @@ const races = {
             path: `${dir}/1-background/Orange.png`,
             weight: 80,
           },
+          {
+            id: 3,
+            name: "Pattern-1",
+            path: `${dir}/1-background/Pattern-1.jpg`,
+            weight: 80,
+          },
+          {
+            id: 3,
+            name: "Pattern-2",
+            path: `${dir}/1-background/Pattern-2.jpg`,
+            weight: 80,
+          },
         ],
         position: { x: 0, y: 0 },
         size: { width: width, height: height },
