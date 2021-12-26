@@ -1,7 +1,7 @@
 {
   "name": "art_generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Beautiful NFT associated with upcoming NFT game project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +12,14 @@
     "all": "^0.0.0",
     "canvas": "^2.8.0",
     "truffle": "^5.4.26"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkshayPatel-360/Crypto-Women-NFT.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/AkshayPatel-360/Crypto-Women-NFT/issues"
+  },
+  "homepage": "https://github.com/AkshayPatel-360/Crypto-Women-NFT#readme"
 }
