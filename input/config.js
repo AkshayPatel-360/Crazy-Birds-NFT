@@ -22,17 +22,27 @@ const races = {
       {
         name: "Background",
         elements: [
+         
+
           {
             id: 0,
-            name: "Light blue",
-            path: `${dir}/1-background/LightBlue.png`,
-            weight: 100,
+            name: "Pattern-1",
+            path: `${dir}/1-background/Pattern-1.png`,
+            weight: 10,
           },
+        
           {
             id: 1,
-            name: "Pattern-6",
-            path: `${dir}/1-background/Pattern-6.png`,
-            weight: 80,
+            name: "Pattern-7",
+            path: `${dir}/1-background/Pattern-7.jpg`,
+            weight: 5,
+          },
+
+          {
+            id: 2,
+            name: "Pattern-2",
+            path: `${dir}/1-background/Pattern-2.png`,
+            weight: 10,
           },
         ],
         position: { x: 0, y: 0 },
