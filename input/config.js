@@ -1,6 +1,6 @@
 const fs = require("fs");
-const width = 3000;
-const height = 3000;
+const width = 1000;
+const height = 1000;
 const dir = __dirname;
 const description = "This is an NFT made by the coolest generative code.";
 const baseImageUri = "https://hashlips/nft";
@@ -22,27 +22,17 @@ const races = {
       {
         name: "Background",
         elements: [
-         
-
           {
             id: 0,
-            name: "Pattern-1",
-            path: `${dir}/1-background/Pattern-1.png`,
-            weight: 10,
+            name: "Light blue",
+            path: `${dir}/1-background/LightBlue.png`,
+            weight: 100,
           },
-        
           {
             id: 1,
-            name: "Pattern-3",
-            path: `${dir}/1-background/Pattern-3.png`,
-            weight: 50,
-          },
-
-          {
-            id: 2,
-            name: "Pattern-2",
-            path: `${dir}/1-background/Pattern-2.png`,
-            weight: 10,
+            name: "Orange",
+            path: `${dir}/1-background/Orange.png`,
+            weight: 80,
           },
         ],
         position: { x: 0, y: 0 },
