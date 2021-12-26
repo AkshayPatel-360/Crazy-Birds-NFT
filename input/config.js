@@ -24,16 +24,12 @@ const races = {
         elements: [
           {
             id: 0,
-            name: "Light blue",
-            path: `${dir}/1-background/LightBlue.png`,
-            weight: 100,
+            name: "6",
+            path: `${dir}/1-background/6.jpg`,
+            weight: 10,
           },
-          {
-            id: 1,
-            name: "Orange",
-            path: `${dir}/1-background/Orange.png`,
-            weight: 80,
-          },
+          
+          
         ],
         position: { x: 0, y: 0 },
         size: { width: width, height: height },
@@ -179,6 +175,13 @@ const races = {
             id: 0,
             name: "Glass dome",
             path: `${dir}/10-headwear/GlassDome.png`,
+            weight: 1,
+          },
+
+          {
+            id: 1,
+            name: "Headset",
+            path: `${dir}/10-headwear/Headset.png`,
             weight: 100,
           },
         ],
