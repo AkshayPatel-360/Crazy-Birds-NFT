@@ -33,9 +33,9 @@ const races = {
         
           {
             id: 1,
-            name: "Pattern-7",
-            path: `${dir}/1-background/Pattern-7.jpg`,
-            weight: 5,
+            name: "Pattern-3",
+            path: `${dir}/1-background/Pattern-3.png`,
+            weight: 50,
           },
 
           {
