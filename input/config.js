@@ -189,13 +189,6 @@ const races = {
             path: `${dir}/10-headwear/GlassDome.png`,
             weight: 1,
           },
-
-          {
-            id: 1,
-            name: "Headset",
-            path: `${dir}/10-headwear/Headset.png`,
-            weight: 100,
-          },
         ],
         position: { x: 0, y: 0 },
         size: { width: width, height: height },
