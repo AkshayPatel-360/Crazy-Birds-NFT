@@ -167,19 +167,19 @@ const races = {
         position: { x: 0, y: 0 },
         size: { width: width, height: height },
       },
-      {
-        name: "Accessories",
-        elements: [
-          {
-            id: 0,
-            name: "No accessories",
-            path: `${dir}/9-accessories/NoAcc.png`,
-            weight: 100,
-          },
-        ],
-        position: { x: 0, y: 0 },
-        size: { width: width, height: height },
-      },
+      // {
+      //   name: "Accessories",
+      //   elements: [
+      //     {
+      //       id: 0,
+      //       name: "No accessories",
+      //       path: `${dir}/9-accessories/NoAcc.png`,
+      //       weight: 100,
+      //     },
+      //   ],
+      //   position: { x: 0, y: 0 },
+      //   size: { width: width, height: height },
+      // },
       {
         name: "Headwear",
         elements: [
