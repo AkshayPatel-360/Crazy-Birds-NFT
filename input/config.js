@@ -24,8 +24,20 @@ const races = {
         elements: [
           {
             id: 0,
-            name: "6",
-            path: `${dir}/1-background/6.jpg`,
+            name: "Pink",
+            path: `${dir}/1-background/Pink.jpg`,
+            weight: 10,
+          },
+          {
+            id: 0,
+            name: "Purple-SkyBlue-Mix",
+            path: `${dir}/1-background/Purple-SkyBlue-Mix.jpg`,
+            weight: 10,
+          },
+          {
+            id: 0,
+            name: "Orange",
+            path: `${dir}/1-background/Orange.jpg`,
             weight: 10,
           },
           
