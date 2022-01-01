@@ -29,13 +29,13 @@ const races = {
             weight: 10,
           },
           {
-            id: 0,
+            id: 1,
             name: "Purple-SkyBlue-Mix",
             path: `${dir}/1-background/Purple-SkyBlue-Mix.jpg`,
-            weight: 10,
+            weight: 30,
           },
           {
-            id: 0,
+            id: 2,
             name: "Orange",
             path: `${dir}/1-background/Orange.jpg`,
             weight: 10,
