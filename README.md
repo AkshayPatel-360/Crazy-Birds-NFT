@@ -1,6 +1,8 @@
 # Akshay-NFT
  Beautiful NFT associated with upcoming NFT game project
  
+ ![1](https://user-images.githubusercontent.com/67767059/147862155-6150a5f5-5cd9-4864-bb69-918d9bfc04b0.png)
+ 
 ![2](https://user-images.githubusercontent.com/67767059/147420664-9b6eda9a-f472-4fc1-9aef-c64b5a9c4445.png)
 
 ![4](https://user-images.githubusercontent.com/67767059/147420804-5a5bf4be-2262-4c39-be33-77949100b6d2.png)
